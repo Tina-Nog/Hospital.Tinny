@@ -1,11 +1,11 @@
-## 🏥Hospital - Saúde Tech
+# 🏥Hospital - Saúde Tech
 Transformando a gestão hospitalar com tecnologia e eficiência!
 Este projeto tem como objetivo criar um sistema hospitalar moderno e dinâmico, utilizando o MongoDB como banco de dados. Com funcionalidades que abrangem desde o cadastro de médicos até o acompanhamento de internações, buscamos facilitar o dia a dia das equipes hospitalares e melhorar a experiência dos pacientes.
 
-## 🎯 Status do Projeto: Em construção 🚧
+# 🎯 Status do Projeto: Em construção 🚧
 Estamos apenas começando, mas grandes novidades estão a caminho!
 
-## 📊 Funcionalidades
+# 📊 Funcionalidades
 
 - **Parte 1**🧑🏿‍⚕️ :Gestão Clínica
 Cadastro completo de médicos com suas especialidades:
@@ -285,7 +285,7 @@ db["quarto"].insertMany([
 ]);
 ```
 
-## 🛠️ Etapas de Desenvolvimento
+# 🛠️ Etapas de Desenvolvimento
 - **🔍 Parte 1**: Mãos à Obra
  Construção do diagrama de banco de dados.
  Implementação de cadastros para médicos, pacientes e convênios.
@@ -295,7 +295,7 @@ db["quarto"].insertMany([
  Cadastro e controle de quartos e profissionais de enfermagem.
  Relatórios detalhados para alta hospitalar.
 
-## 📌 Observações
+# 📌 Observações
 Este repositório está em constante evolução. 💡
 
 Próximos Passos: O desenvolvimento do diagrama
